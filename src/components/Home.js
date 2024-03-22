@@ -11,7 +11,7 @@ const scrollToSection = (id) => {
   }
 };
 
-
+// Home
 const Home = () => {
     useEffect(() => {
         window.scrollTo(0, 0);
